@@ -56,8 +56,8 @@ def index_page(to_file='./output/category_javforme.txt'):
 
 def main():
     # index_page()
-    crawl_category_all_pages('http://javforme.me/category/uncensored')
-    crawl_category_all_pages('http://javforme.me/japanese-porn-videos')
+    crawl_category_all_pages('https://www5.pornhd.to/category/blowjob')
+    crawl_category_all_pages('https://www5.pornhd.to/porn-hd-videos')
 
 
 if __name__ == '__main__':
