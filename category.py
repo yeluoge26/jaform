@@ -1,15 +1,15 @@
 from requests_html import HTMLSession
 
 category_basic = [
-    'http://javforme.me/category/uncensored',
-    'http://javforme.me/japanese-porn-videos',
-    'http://javforme.me/studio/asian-sex-diary',
+    'https://www5.pornhd.to/category/blowjob',
+    'https://www5.pornhd.to/pornstar',
+    'https://www5.pornhd.to/studio/mofos',
     'https://www5.pornhd.to/studio/brazzers',
 ]
 
 
 def javforme_studio_category():
-    home_url = 'http://javforme.me'
+    home_url = 'https://www5.pornhd.to'
     session = HTMLSession()
     r = session.get(home_url)
     menu = r.html.find('#menu', first=True)
