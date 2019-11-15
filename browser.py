@@ -96,7 +96,7 @@ class Browser(object):
 
 if __name__ == '__main__':
 
-    url = 'http://javforme.me/movies/caribbeancompr-110819-003-runa-sezaki-monthly'
+    url = 'http://www5.pornhd.to/movies/fantasymassage-abella-danger-discreetly-presents-buttocks-to-man'
     browser = Browser()
     browser.open_url(url)
     info = browser.get_info()
